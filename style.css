@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://images4.newscred.com/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==");
+}
+
+.heading{
+    color: white;
+    width: 100%;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+#note{
+    color: black;
+    font-weight: bold;
+    font-size: small;
+}
+
+#object_name{
+    font-weight: 100;
+}
+
+#input{
+    width: 400px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+#start{
+    margin-top: 5px;
+}
+
+canvas{
+    margin-top: 150px;
+}
